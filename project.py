@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv('a:\\Study\\Data Science\\INT317(Python)\\Project\\Base Dataset.csv')
+df = pd.read_csv('Base Dataset.csv')
 
 
 # =========================PreProcessing==============================#
